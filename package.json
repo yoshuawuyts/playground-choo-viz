@@ -1,0 +1,18 @@
+{
+  "name": "playground-choo-viz",
+  "version": "1.0.0",
+  "description": "{{description}} ## See also",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "bankai start --entry=index.js --port=8080"
+  },
+  "keywords": [],
+  "author": "Yoshua Wuyts <yoshuawuyts@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bankai": "^3.3.1",
+    "choo": "^4.0.0-1",
+    "choo-log": "^2.0.0"
+  }
+}
